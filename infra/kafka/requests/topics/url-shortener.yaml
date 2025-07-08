@@ -1,0 +1,3 @@
+topic: url-shortener
+partitions: 3
+replication_factor: 3

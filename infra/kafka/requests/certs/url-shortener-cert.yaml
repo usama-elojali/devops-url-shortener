@@ -1,0 +1,3 @@
+cert_location: "s3://devops-url-shortener-kafka-certs/"
+client_id: "service-url-shortener"
+description: "Cert for connecting to url-shortener topic as service user"

@@ -1,0 +1,11 @@
+acls:
+  - principal: "User:service-url-shortener"
+    operation: "Read"
+    permission: "Allow"
+    resource: "Topic"
+    resource_name: "url-shortener"
+  - principal: "User:service-url-shortener"
+    operation: "Write"
+    permission: "Allow"
+    resource: "Topic"
+    resource_name: "url-shortener"

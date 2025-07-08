@@ -1,0 +1,4 @@
+quota:
+  client_id: "service-url-shortener"
+  producer_byte_rate: 1048576    # 1 MB/s
+  consumer_byte_rate: 1048576  # 1 MB/s
