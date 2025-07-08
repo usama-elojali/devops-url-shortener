@@ -1,0 +1,26 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.log
+
+# Python virtual environments
+.venv/
+env/
+ENV/
+venv/
+pip-wheel-metadata/
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.crash
+.terraform/
+.terraform.lock.hcl
+*.backup
+
+# AWS CLI credentials and outputs
+*.pem
+*.key
+
+# macOS junk
+.DS_Store
